@@ -2,7 +2,7 @@
 
 This project fecth data from Spotify API and display Artist and Albums information. 
 
-his project was generated with Angular CLI version 11.2.1.
+This project was generated with Angular CLI version 11.2.1.
 
 ## Project Domain
 
@@ -11,4 +11,4 @@ This project can be accessed using the domain https://music-ang-app.vercel.app/
 
 ### Project Development
 
-This project is a school project, developed useing Angular, Typescript, Node.Js and Express Server.
+This project is a school project, developed using Angular, Typescript, Node.Js and Express Server.
