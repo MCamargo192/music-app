@@ -1,0 +1,16 @@
+form {
+    display: flex;
+}
+
+form button {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+form button:focus{
+    outline: none !important;
+}
